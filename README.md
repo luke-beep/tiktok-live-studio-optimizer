@@ -1,6 +1,3 @@
-# TikTok Live Cleaner
-
-<!-- Improved compatibility of back to top link: See: https://github.com/luke-beep/tiktok-live-studio-optimizer/pull/73 -->
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
@@ -79,11 +76,10 @@ These files are debug logs that get created every time you start a live stream. 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+TikTok LIVE Studio Optimizer is built with the following technologies:
 
 * [![C#][CSharp]][CSharp-url]
-* [![React][React.js]][React-url]
-
+* [![.NET][Dotnet]][Dotnet-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,29 +93,14 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Install .NET 6.0
+Install Visual Studio 2022
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. Go to the release tab and download the latest release https://github.com/luke-beep/tiktok-live-studio-optimizer/releases/tag/beta
+2. Unzip the file and run the TikTok Live Studio Optimizer.exe file or build it yourself. 
+3. You can build it yourself by opening the TikTok Live Studio Optimizer.sln file in Visual Studio 2022 and building it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,9 +109,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+This application automatically cleans and optimizes your TikTok Live Studio experience. It will delete all the unnecessary files that TikTok Live Studio creates in the watchdog folder. This application can run in the background without taking up any resources.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,12 +119,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 - [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [ ] Add "How to Contribute" section
+- [ ] Add a settings configuration file
 
 See the [open issues](https://github.com/luke-beep/tiktok-live-studio-optimizer/issues) for a full list of proposed features (and known issues).
 
@@ -174,7 +149,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See [LICENSE.txt](https://github.com/luke-beep/tiktok-live-studio-optimizer/blob/master/static/LICENSE.txt) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,16 +169,7 @@ Project Link: [https://github.com/luke-beep/tiktok-live-studio-optimizer](https:
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -218,27 +184,24 @@ Use this space to list resources you find helpful and would like to give credit 
 [stars-shield]: https://img.shields.io/github/stars/luke-beep/tiktok-live-studio-optimizer.svg?style=for-the-badge
 [stars-url]: https://github.com/luke-beep/tiktok-live-studio-optimizer/stargazers
 [issues-shield]: https://img.shields.io/github/issues/luke-beep/tiktok-live-studio-optimizer.svg?style=for-the-badge
-[issues-url]: https://github.com/luke-beep/tiktok-lifve-studio-optimizer/issues
+[issues-url]: https://github.com/luke-beep/tiktok-live-studio-optimizer/issues
 [license-shield]: https://img.shields.io/github/license/luke-beep/tiktok-live-studio-optimizer.svg?style=for-the-badge
 [license-url]: https://github.com/luke-beep/tiktok-live-studio-optimizer/blob/master/static/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/luke-hjo-68037a257/
 [product-screenshot]: static/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
 [CSharp]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 [CSharp-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
+[Dotnet-url]: https://docs.microsoft.com/en-us/dotnet/
+[Dotnet]: https://img.shields.io/badge/.dotnet-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+
+<!-- 
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search) 
+-->
