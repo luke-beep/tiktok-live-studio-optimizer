@@ -93,13 +93,20 @@ internal class Program
     #region ClearWatchDog
     public static void ClearWatchDog()
     {
-        string path = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
-        string finalpath = Path.Combine(path, "TikTok LIVE Studio", "watchdog");
-        foreach (string cache in Directory.EnumerateDirectories(finalpath))
+        try
         {
-            Directory.Delete(cache, true);
-            Console.WriteLine("\n");
-            Console.WriteLine("Successfully deleted the folder at: " + cache);
+            string path = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
+            string finalpath = Path.Combine(path, "TikTok LIVE Studio", "watchdog");
+            foreach (string cache in Directory.EnumerateDirectories(finalpath))
+            {
+                Directory.Delete(cache, true);
+                Console.WriteLine("\n");
+                Console.WriteLine("Successfully deleted the folder at: " + cache);
+            }
+        } catch(Exception e)
+        {
+            Console.WriteLine("Couldn't find TikTok Live Studio!");
+            Environment.Exit(0);
         }
     }
     #endregion
