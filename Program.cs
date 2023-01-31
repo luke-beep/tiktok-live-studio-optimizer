@@ -126,8 +126,8 @@ internal class Program
                         if (process != null)
                         {
                             process.WaitForExit();
-                            ClearWatchDog(); 
-                            Console.WriteLine("The process with the following PID has been terminated: " + pname[0].Id); // Might error as pname[0] may not exist at this time
+                            ClearWatchDog();
+                            //Console.WriteLine("The process with the following PID has been terminated: " + pname[0].Id); // Might error as pname[0] may not exist at this time
                         }
                     }
                     Thread.Sleep(10);
