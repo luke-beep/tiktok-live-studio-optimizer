@@ -16,7 +16,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/luke-beep/tiktok-live-studio-optimizer">
-    <img src="static/tiktok-live-studio.png" alt="Logo" width="80" height="80">
+    <img src="static/tiktok-live-studio.png" alt="Logo" width="600" height="314">
   </a>
 
   <h3 align="center">TikTok Live Studio Optimizer</h3>
