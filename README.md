@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/luke-beep/tiktok-live-studio-optimizer">
-    <img src="tiktok-live-studio.png" alt="Logo" width="600" height="314">
+    <img src="static/tiktok-live-studio.png" alt="Logo" width="600" height="314">
   </a>
 
   
@@ -195,9 +195,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@LuckyLukeHjo](https://twitter.com/LuckyLukeHjo) - lukehjo@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/luke-beep/tiktok-live-studio-optimizer](https://github.com/luke-beep/tiktok-live-studio-optimizer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
