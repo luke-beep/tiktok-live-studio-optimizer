@@ -3,6 +3,14 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/luke-beep/tiktok-live-studio-optimizer">
+    <img src="static/tiktok-live-studio.png" alt="Logo" width="600" height="314">
+  </a>
+
+  
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -10,14 +18,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/luke-beep/tiktok-live-studio-optimizer">
-    <img src="static/tiktok-live-studio.png" alt="Logo" width="600" height="314">
-  </a>
 
   <h3 align="center">TikTok Live Studio Optimizer</h3>
 
