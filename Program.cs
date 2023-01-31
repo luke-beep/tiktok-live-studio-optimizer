@@ -139,7 +139,7 @@ internal class Program
             Console.WriteLine(e);
         }
     }
-    public static string settings()
+    /*public static string settings()
     {
         string currdir = System.IO.Directory.GetCurrentDirectory();
         string finalpath = currdir + "\\tiktok_cleaner.json";
@@ -169,7 +169,7 @@ internal class Program
         string color = tikTokLiveCleaner.Color;
         return color;
 
-    }
+    }*/
 }
 
 
