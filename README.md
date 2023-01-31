@@ -21,7 +21,7 @@
   <h3 align="center">TikTok Live Studio Optimizer</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An application to optimize your TikTok Live Studio experience.
     <br />
     <a href="https://github.com/luke-beep/tiktok-live-studio-optimizer"><strong>Explore the docs »</strong></a>
     <br />
