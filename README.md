@@ -23,10 +23,8 @@
   <p align="center">
     An application to optimize your TikTok Live Studio experience.
     <br />
-    <a href="https://github.com/luke-beep/tiktok-live-studio-optimizer"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/luke-beep/tiktok-live-studio-optimizer">View Demo</a>
     ·
     <a href="https://github.com/luke-beep/tiktok-live-studio-optimizer/issues">Report Bug</a>
     ·
