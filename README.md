@@ -235,7 +235,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/luke-beep/tiktok-live-studio-optimizer/blob/master/static/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/luke-hjo-68037a257/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: static/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
