@@ -103,7 +103,7 @@ internal class Program
                 Console.WriteLine("\n");
                 Console.WriteLine("Successfully deleted the folder at: " + cache);
             }
-        } catch(Exception e)
+        } catch(Exception)
         {
             string path = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
             string finalpath = Path.Combine(path, "TikTok LIVE Studio", "watchdog");
