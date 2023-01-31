@@ -172,7 +172,7 @@ Project Link: [https://github.com/luke-beep/tiktok-live-studio-optimizer](https:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<a name="footer">1></a>: LukeHjo 2023
+<a name="footer">Copyright © LukeHjo, 2023</a>  
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
