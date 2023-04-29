@@ -156,7 +156,7 @@ Distributed under the MIT License. See [LICENSE.txt](https://github.com/luke-bee
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@LuckyLukeHjo](https://twitter.com/LuckyLukeHjo) - lukehjo@gmail.com
+LukeHjo - [@LuckyLukeHjo](https://twitter.com/LuckyLukeHjo) - lukehjo@gmail.com
 
 Project Link: [https://github.com/luke-beep/tiktok-live-studio-optimizer](https://github.com/luke-beep/tiktok-live-studio-optimizer)
 
